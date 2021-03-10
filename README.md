@@ -10,9 +10,9 @@ every (??)
 
 | 팀원  | 소개 |
 |:---:|:-------:|
-| [승수](https://github.com/pss4190) | idiot |
-| [재완](https://github.com/jwMah) | idiot |
-| [진원](https://github.com/xmcodings) | genius |
+| 😋[승수](https://github.com/pss4190) | idiot |
+| 😛[재완](https://github.com/jwMah) | idiot |
+| 🤪[진원](https://github.com/xmcodings) | genius |
 
 
 ## Contribute
